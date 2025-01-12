@@ -19,24 +19,25 @@ I'm open to new job challenges and opportunities to expand my knowledge in mobil
 ### Tech Stack:
 
 #### Programming Languages:
-- **Swift**
-- **Dart**
-- **Kotlin**
-- **Java**
+![Swift](https://img.shields.io/badge/Swift-4f9f93?style=flat&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 #### Frameworks:
-- **Flutter** (for mobile app development)
-- **iOS: SwiftUI, UIKit** (for iOS app development)
-- **Android: Jetpack Compose, XML-Layouts** (for Android app development)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FF6347?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-FF8C00?style=flat&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-03DAC5?style=flat&logo=android&logoColor=white)
 
 #### Databases:
-- **Firebase** (for real-time database and cloud storage)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 #### Tools:
-- **Xcode** (for iOS development)
-- **VS Code** (for Flutter and general development)
-- **IntelliJ IDEA** (for Kotlin and Android development)
-- **Git/GitHub** (for version control)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 

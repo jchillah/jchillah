@@ -96,8 +96,13 @@ My Flutter Web portfolio and developer website presenting my services, projects 
 - **App Developer – Flutter**, App Akademie  
   Successfully completed in September 2024 with **1,750 teaching units**. The qualification covered UX/UI design, Dart, Flutter, Firebase, GitHub, state management, responsive interfaces, publishing and portfolio development.
 
-- **iOS final project:** CryptoTracker — overall evaluation: **Good**
-- **Android final project:** GameRadar
+- **iOS module final project – CryptoTracker**, Syntax Institut  
+  Official overall evaluation: **Good (German grade 2; approximately US grade B)**.  
+  Technical understanding was rated **Very Good (grade 1 / approximately A)**; functionality, code quality and usability were rated **Good (grade 2 / approximately B)**.
+
+- **Android module final project – GameRadar**, Syntax Institut  
+  Official overall evaluation: **Good (German grade 2; approximately US grade B)**.  
+  Technical understanding, functionality and usability were rated **Very Good (grade 1 / approximately A)**; code quality and presentation were rated **Good (grade 2 / approximately B)**.
 
 ## Tech Stack
 
